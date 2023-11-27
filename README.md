@@ -5,8 +5,6 @@
 - ❤️ `My favorite languages`: Python/SQL
 - ☁️ Building infrastucture on cloud platforms (GCP, AWS)
 - 💬 `Ask me about`: Python, GCP, AWS, Pentaho, Looker, Airflow
-<br/>
-<br/>
 
 
 <p align="left">
